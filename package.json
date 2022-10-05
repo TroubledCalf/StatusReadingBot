@@ -2,7 +2,7 @@
   "name": "status-reading-bot",
   "version": "0.0.0",
   "description": "StatusReadingBot",
-  "main": "app.js",
+  "main": "bot.js",
   "author": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
